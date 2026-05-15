@@ -1,14 +1,20 @@
-ryopc グローバルデジタルサポート 🚀
-あらゆる場所のすべての人々が、デジタル機器に関する正当かつ公平なサポートを受けられるようにする。
+# Welcome to the ryopcorg! 🚀
 
-🎯 私たちの使命
-ryopcCEOが率いるryopcは、公正で透明性の高い技術サポートは基本的人権であるという信念に基づき設立された、デジタルファーストのグローバルイニシアチブです。私たちはユーザーを不正行為から守り、世界的なデジタルデバイドの解消に努めています。
+Welcome to the official documentation space for **ryopc Global Digital Support**. This Wiki serves as the central knowledge base for our global open-source initiative.
 
-🛠 今後のサービス
-私たちは、合法的なデバイスガイダンスを皮切りに、国境のない多層的なエコシステムを構築しています。グローバルコミュニティの進化するニーズに応えるため、多様なデジタルソリューションを順次展開していく予定です。
+## 🎯 Our Mission
+Led by **ryopcCEO**, **ryopcorg** is a digital-first global initiative built on the belief that fair, transparent technical support is a fundamental right. We protect users from fraudulent practices and bridge the global digital divide.
 
-🌐 プロジェクト状況
-管理拠点：オープンソース・コレクティブとして申請中（米国カリフォルニア州コビーナ）
-ライブチャットサポート：Channel Talkによる提供（統合済み）
-公式ドメイン：（ ryopc.org慈善団体への無償提供による取得手続き中）
-「グローバルなデジタル公平性を、デバイス一つひとつを通して実現する。」— ryopcCEO
+## 🌐 Project Status & Infrastructure
+- **Fiscal Sponsorship:** Under application for Open Source Collective (Covina, CA, USA)
+- **Official Domain:** ryopc.org (Pending acquisition via Free For Charity)
+- **Live Chat:** Powered by Channel Talk (Integrated)
+
+## 🗺️ Wiki Navigation
+[Home](https://github.com/ryopc/ryopc.github.io/wiki)
+[Architecture](https://github.com/ryopc/ryopc.github.io/wiki/Architecture)
+[Governance](https://github.com/ryopc/ryopc.github.io/wiki/Governance)
+
+
+---
+*“Ensuring global digital equity, one device at a time.” — ryopcCEO*
